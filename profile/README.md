@@ -24,4 +24,4 @@ This organization is used for:
 | Repository | Description |
 | ---------- | ----------- |
 | [Orderium](https://github.com/ImKarven/Orderium) | The plugin source code |
-| [orderium-docs](https://github.com/ImKarven/orderium-docs) | Documentation site source (installation, permissions, config reference, features) |
+| [orderium-docs](https://github.com/ImKarven/orderium-docs) | Documentation site source |
