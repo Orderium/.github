@@ -17,7 +17,7 @@ Orderium is a plugin for [Paper](https://papermc.io) servers that adds a full or
 This organization is used for:
 1. Taking the username/organization name "Orderium" on GitHub;
 2. Hosting Orderium's documentation website;
-3. Storing repositories related to Ordeirum.
+3. Storing repositories related to Orderium.
 
 ## Repositories
 
