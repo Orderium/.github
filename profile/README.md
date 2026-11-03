@@ -23,5 +23,5 @@ This organization is used for:
 
 | Repository | Description |
 | ---------- | ----------- |
-| [Orderium](https://github.com/ImKarven/Orderium) | The plugin source code |
-| [orderium-docs](https://github.com/ImKarven/orderium-docs) | Documentation site source |
+| [paper-plugin](https://github.com/Orderium/paper-plugin) | The plugin source code |
+| [docs](https://github.com/Orderium/docs) | Documentation site source |
