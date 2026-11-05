@@ -18,10 +18,3 @@ This organization is used for:
 1. Taking the username/organization name "Orderium" on GitHub;
 2. Hosting Orderium's documentation website;
 3. Storing repositories related to Orderium.
-
-## Repositories
-
-| Repository | Description |
-| ---------- | ----------- |
-| [paper-plugin](https://github.com/Orderium/paper-plugin) | The plugin source code |
-| [docs](https://github.com/Orderium/docs) | Documentation site source |
